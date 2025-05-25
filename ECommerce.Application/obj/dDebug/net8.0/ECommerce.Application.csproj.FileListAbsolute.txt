@@ -1,0 +1,15 @@
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/bin/dDebug/net8.0/ECommerce.Application.deps.json
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/bin/dDebug/net8.0/ECommerce.Application.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/bin/dDebug/net8.0/ECommerce.Application.pdb
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/bin/dDebug/net8.0/ECommerce.Domain.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/bin/dDebug/net8.0/ECommerce.Domain.pdb
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.csproj.AssemblyReference.cache
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.AssemblyInfoInputs.cache
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.AssemblyInfo.cs
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.csproj.CoreCompileInputs.cache
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerc.670E0CBE.Up2Date
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/refint/ECommerce.Application.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ECommerce.Application.pdb
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Application/obj/dDebug/net8.0/ref/ECommerce.Application.dll

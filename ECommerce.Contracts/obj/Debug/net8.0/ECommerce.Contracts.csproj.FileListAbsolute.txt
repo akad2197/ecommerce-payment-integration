@@ -1,0 +1,11 @@
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/bin/Debug/net8.0/ECommerce.Contracts.deps.json
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/bin/Debug/net8.0/ECommerce.Contracts.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/bin/Debug/net8.0/ECommerce.Contracts.pdb
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.AssemblyInfoInputs.cache
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.AssemblyInfo.cs
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.csproj.CoreCompileInputs.cache
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/refint/ECommerce.Contracts.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ECommerce.Contracts.pdb
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.Contracts/obj/Debug/net8.0/ref/ECommerce.Contracts.dll
