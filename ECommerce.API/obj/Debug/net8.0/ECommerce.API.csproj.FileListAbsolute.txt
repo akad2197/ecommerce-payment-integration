@@ -116,3 +116,4 @@
 /Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.API/obj/Debug/net8.0/ECommerce.API.pdb
 /Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.API/obj/Debug/net8.0/ECommerce.API.genruntimeconfig.cache
 /Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.API/obj/Debug/net8.0/ref/ECommerce.API.dll
+/Users/enesbal/Cursor Projects/bpn-case/ecommerce-payment-integration/ECommerce.API/obj/Debug/net8.0/ECommerce.API.sourcelink.json
